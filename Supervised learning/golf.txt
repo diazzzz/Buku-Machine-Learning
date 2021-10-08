@@ -1,0 +1,15 @@
+Outlook,Temp.,Humidity,Wind,Decision
+Sunny,Hot,High,Weak,0
+Sunny,Hot,High,Strong,0
+Overcast,Hot,High,Weak,1
+Rain,Mild,High,Weak,1
+Rain,Cool,0rmal,Weak,1
+Rain,Cool,0rmal,Strong,0
+Overcast,Cool,0rmal,Strong,1
+Sunny,Mild,High,Weak,0
+Sunny,Cool,0rmal,Weak,1
+Rain,Mild,0rmal,Weak,1
+Sunny,Mild,0rmal,Strong,1
+Overcast,Mild,High,Strong,1
+Overcast,Hot,0rmal,Weak,1
+Rain,Mild,High,Strong,0
